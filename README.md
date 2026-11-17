@@ -41,25 +41,25 @@ Fresh **Visa sponsorship** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Visa sponsorship jobs from Jaabz
 
-_Auto-updated · UTC **2026-11-16 16:51** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
+_Auto-updated · UTC **2026-11-17 16:46** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Senior Postdoctoral Researcher – Targeted Therapeutics & Nanodevices | institute for bioengineering of catalonia (ibec) | SPAIN | 2026-11-16 16:36 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/306370-postdoctoral-researcher) |
-| Machine Learning Engineer 5 | Capital One | United States | 2026-11-16 16:35 UTC | visa | [Apply](https://jaabz.com/jobs/306371-machine-learning-engineer) |
-| Staff Engineer | meeboss | United States | 2026-11-16 16:34 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/306372-staff-engineer-at-prestige-workforce-solutions) |
-| ASIC Engineering Lead (Physical Design/STA) – Senior Technical Leadership | CyberCoders | United State | 2026-11-16 16:16 UTC | visa | [Apply](https://jaabz.com/jobs/286062-physical-design-lead-principal-or-master-level-up-to-800k) |
-| Senior Java Software Developer | BeaconFire Inc. | United State | 2026-11-16 16:16 UTC | visa | [Apply](https://jaabz.com/jobs/293235-javasoftware-developer-opportunity) |
-| Entry-Level Data Analyst | ATC | United States | 2026-11-16 16:06 UTC | visa | [Apply](https://jaabz.com/jobs/176588-data-analyst) |
-| Entry-Level Business Analyst | ATC | United States | 2026-11-16 16:06 UTC | visa | [Apply](https://jaabz.com/jobs/159383-business-analyst) |
-| Senior Java Full Stack Developer with AI Integration (Spring Boot, Microservices) | BeaconFire Inc. | United State | 2026-11-16 15:48 UTC | visa | [Apply](https://jaabz.com/jobs/293377-l1-java-developer) |
-| Senior Full-Stack Engineer | ivo | United States | 2026-11-16 15:48 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/277561-senior-software-engineer-fullstack) |
-| Senior/Staff/Principal RTL IC Design Engineer (AI Infrastructure) | CyberCoders | United State | 2026-11-16 15:46 UTC | visa | [Apply](https://jaabz.com/jobs/286064-ic-design-engineer-senior-staff-or-principal-up-to-580k-tc) |
-| Software Engineer (Full Stack) | meeboss | United States | 2026-11-16 15:46 UTC | visa | [Apply](https://jaabz.com/jobs/306286-software-engineer-at-crooter) |
-| Senior Java Full-Stack Developer with AI Integration (RAG Pipeline Expert) | BeaconFire Inc. | United State | 2026-11-16 15:42 UTC | visa | [Apply](https://jaabz.com/jobs/293438-java-developer) |
-| Senior Cloud Engineer | HomeToGo | GERMANY | 2026-11-16 15:42 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/253886-senior-cloud-engineer-mfd) |
-| Research Engineer - Data and Evaluation | ladders | United States | 2026-11-16 14:51 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/306085-research-engineer-data-and-evaluation) |
-| Research Engineer - Inference | ladders | United States | 2026-11-16 14:47 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/306071-research-engineer-inference) |
+| PhD Level Machine Learning Scientist - AI Research | darcie talent | UNITED KINGDOM | 2026-11-17 16:26 UTC | visa | [Apply](https://jaabz.com/jobs/123537-machine-learning-researcher) |
+| Senior Java Software Developer | BeaconFire Inc. | United State | 2026-11-17 16:12 UTC | visa | [Apply](https://jaabz.com/jobs/293235-javasoftware-developer-opportunity) |
+| Software Engineer Robotics | arculus – a Jungheinrich company | GERMANY | 2026-11-17 16:09 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/307112-software-engineer-robotics-dfm) |
+| Software Engineer | coretech security services | UNITED KINGDOM | 2026-11-17 15:49 UTC | visa | [Apply](https://jaabz.com/jobs/307095-software-engineer) |
+| Senior or Principal Consultant – Data Centres & Critical Infrastructure Recruiter | sr2 | United States | 2026-11-17 14:50 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/307085-senior-or-principal-consultant-data-centres-critical-infrastructure) |
+| DevOps Engineer – Linux & Robotics Platforms | arculus | GERMANY | 2026-11-17 14:33 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/307057-devops-engineer-a-linux-robotics-platforms-dfm) |
+| Junior Data Engineer | BeaconFire Inc. | United States | 2026-11-17 14:31 UTC | visa | [Apply](https://jaabz.com/jobs/307047-data-engineer) |
+| Junior Generative AI Engineer | BeaconFire Inc. | United States | 2026-11-17 14:30 UTC | visa | [Apply](https://jaabz.com/jobs/307052-generative-ai-engineer) |
+| Senior React Developer | Precision Technologies | United States | 2026-11-17 14:27 UTC | visa | [Apply](https://jaabz.com/jobs/281576-frontend-developer) |
+| Product Engineer - Clearing Products | augustus | GERMANY | 2026-11-17 13:03 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/307011-product-engineer) |
+| Forward Deployed Engineer | goaly | United States | 2026-11-17 12:59 UTC | visa | [Apply](https://jaabz.com/jobs/307010-founding-forward-deployed-engineer-fde) |
+| Senior SAP Datasphere Developer / Solution Architect | Fusion Consulting | INDIA | 2026-11-17 12:43 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/306995-datasphere-developer-technical-lead) |
+| Junior Software Engineer (Full-Time) – Java/Python Developer | tetrahed inc | United State | 2026-11-17 12:30 UTC | visa | [Apply](https://jaabz.com/jobs/286881-jr-software-engineer-full-time-strictly-opt-candidates-only) |
+| Senior Data Engineer (ETL/ELT, Data Pipelines) | BeaconFire Inc. | United State | 2026-11-17 12:29 UTC | visa | [Apply](https://jaabz.com/jobs/286441-data-engineer) |
+| AI Full-Stack Engineer | clera | United States | 2026-11-17 11:15 UTC | visa | [Apply](https://jaabz.com/jobs/306938-software-engineer) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
