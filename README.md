@@ -41,25 +41,25 @@ Fresh **Visa sponsorship** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Visa sponsorship jobs from Jaabz
 
-_Auto-updated · UTC **2026-11-20 15:58** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
+_Auto-updated · UTC **2026-11-21 15:10** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Workplace Automation Solutions Lead | Alder Hey Children's NHS Foundation Trust | UNITED KINGDOM | 2026-11-20 15:55 UTC | visa | [Apply](https://jaabz.com/jobs/309714-senior-rpa-developer) |
-| Senior Strategy Consultant, Data AI and Technology | Fusion Consulting | GERMANY | 2026-11-20 15:41 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/309731-data-strategy-consultant) |
-| Recruitment Consultant | Antal International | SPAIN | 2026-11-20 15:40 UTC | visa | [Apply](https://jaabz.com/jobs/309739-sales-recruitment-consultant) |
-| Senior Technical Engineer – Customer Data Platform | cinergie digital | UNITED ARAB EMIRATES | 2026-11-20 15:27 UTC | visa | [Apply](https://jaabz.com/jobs/309728-senior-technical-engineer-customer-data-platform) |
-| Entry-Level Data Analyst | ATC | United States | 2026-11-20 15:26 UTC | visa | [Apply](https://jaabz.com/jobs/176588-data-analyst) |
-| Entry-Level Business Analyst | ATC | United States | 2026-11-20 15:25 UTC | visa | [Apply](https://jaabz.com/jobs/159383-business-analyst) |
-| Network and Security Engineer | government legal department | UNITED KINGDOM | 2026-11-20 15:11 UTC | visa | [Apply](https://jaabz.com/jobs/309702-network-and-security-engineer) |
-| Senior Creative Graphic Designer | minimalist | UNITED ARAB EMIRATES | 2026-11-20 15:11 UTC | visa | [Apply](https://jaabz.com/jobs/264448-graphic-designer) |
-| Trading Support Engineer | fp markets | CYPRUS | 2026-11-20 15:10 UTC | visa | [Apply](https://jaabz.com/jobs/309700-trading-support-engineer) |
-| Java Software Engineer | BeaconFire Inc. | United States | 2026-11-20 15:09 UTC | visa | [Apply](https://jaabz.com/jobs/309694-java-software-engineer) |
-| Senior Cloud Engineer | fp markets group of companies | CYPRUS | 2026-11-20 15:08 UTC | visa | [Apply](https://jaabz.com/jobs/309695-senior-cloud-engineer) |
-| AI Developer | BeaconFire Inc. | United States | 2026-11-20 15:07 UTC | visa | [Apply](https://jaabz.com/jobs/309697-java-software-engineer) |
-| Junior Generative AI Engineer | BeaconFire Inc. | United States | 2026-11-20 15:05 UTC | visa | [Apply](https://jaabz.com/jobs/309692-generative-ai-engineer) |
-| Senior/Staff/Principal RTL IC Design Engineer (AI Infrastructure) | CyberCoders | United State | 2026-11-20 15:05 UTC | visa | [Apply](https://jaabz.com/jobs/286064-ic-design-engineer-senior-staff-or-principal-up-to-580k-tc) |
-| Junior Data Engineer | BeaconFire Inc. | United States | 2026-11-20 14:57 UTC | visa | [Apply](https://jaabz.com/jobs/309685-data-engineer) |
+| Forward Deployed Engineer | mor search | UNITED KINGDOM | 2026-11-21 14:16 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/310490-forward-deployed-engineer) |
+| Cyber Identity - Saviynt Engineering Manager | Deloitte | United States | 2026-11-21 13:56 UTC | visa | [Apply](https://jaabz.com/jobs/274323-cyber-identity-saviynt-engineering-manager) |
+| Java & AI Engineer (Full Stack) | BeaconFire Inc. | United States | 2026-11-21 13:54 UTC | visa | [Apply](https://jaabz.com/jobs/310525-artificial-intelligence-engineer) |
+| Software Engineer, Platform (Backend/API) | david ai | United States | 2026-11-21 13:44 UTC | visa | [Apply](https://jaabz.com/jobs/310513-software-engineer-platform) |
+| Lead APAC Production Support Engineer - Python / Front Office Trading | Bonhill Partners | — | 2026-11-21 13:34 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/310499-lead-apac-production-support-engineer-a-python-front-office-trading) |
+| Senior Java Full-Stack Developer | BeaconFire Inc. | United State | 2026-11-21 13:29 UTC | visa | [Apply](https://jaabz.com/jobs/293249-java-full-stack-developer) |
+| Combustion Engineer | The Exploration Company | FRANCE | 2026-11-21 11:27 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/310452-combustion-engineer) |
+| Production Operations Engineer | Optiver | AUSTRALIA | 2026-11-21 10:48 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/310434-op-production-operations-engineer-trading-systems-sre-application-support-optiver-sydney-australia-17-hours-ago) |
+| Staff AI Engineer (Trust & Safety) | dreamerlabs | AUSTRALIA | 2026-11-21 10:47 UTC | visa | [Apply](https://jaabz.com/jobs/310435-staff-ai-engineer-trust-safety-dreamerlabs) |
+| Staff AI Engineer (Product) | dreamerlabs | AUSTRALIA | 2026-11-21 10:46 UTC | visa | [Apply](https://jaabz.com/jobs/310436-staff-ai-engineer-product-dreamerlabs) |
+| Programmer Analyst 5 – Data Analyst / ETL Developer | shiro technologies | United States | 2026-11-21 09:45 UTC | visa | [Apply](https://jaabz.com/jobs/310426-immediate-hiring-programmer-analyst-5-data-analyst-etl-developer) |
+| Senior Product Designer | Stealth Startup | United States | 2026-11-21 09:04 UTC | visa | [Apply](https://jaabz.com/jobs/310409-senior-product-designer) |
+| AI Automation Engineer | Mayflower | CYPRUS | 2026-11-21 07:37 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/310390-ai-automation-engineer) |
+| Software Engineer, Machine Learning | benetics ai | SWITZERLAND | 2026-11-21 06:47 UTC | visa | [Apply](https://jaabz.com/jobs/266642-software-engineer) |
+| Technical Program Manager | clera | United States | 2026-11-21 05:48 UTC | visa | [Apply](https://jaabz.com/jobs/310351-technical-program-manager) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
