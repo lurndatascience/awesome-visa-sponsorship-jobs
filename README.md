@@ -41,25 +41,25 @@ Fresh **Visa sponsorship** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Visa sponsorship jobs from Jaabz
 
-_Auto-updated · UTC **2026-11-21 15:10** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
+_Auto-updated · UTC **2026-11-22 15:07** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Visa sponsorship hub](https://jaabz.com/jobs/visasponsorship)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Forward Deployed Engineer | mor search | UNITED KINGDOM | 2026-11-21 14:16 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/310490-forward-deployed-engineer) |
-| Cyber Identity - Saviynt Engineering Manager | Deloitte | United States | 2026-11-21 13:56 UTC | visa | [Apply](https://jaabz.com/jobs/274323-cyber-identity-saviynt-engineering-manager) |
-| Java & AI Engineer (Full Stack) | BeaconFire Inc. | United States | 2026-11-21 13:54 UTC | visa | [Apply](https://jaabz.com/jobs/310525-artificial-intelligence-engineer) |
-| Software Engineer, Platform (Backend/API) | david ai | United States | 2026-11-21 13:44 UTC | visa | [Apply](https://jaabz.com/jobs/310513-software-engineer-platform) |
-| Lead APAC Production Support Engineer - Python / Front Office Trading | Bonhill Partners | — | 2026-11-21 13:34 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/310499-lead-apac-production-support-engineer-a-python-front-office-trading) |
-| Senior Java Full-Stack Developer | BeaconFire Inc. | United State | 2026-11-21 13:29 UTC | visa | [Apply](https://jaabz.com/jobs/293249-java-full-stack-developer) |
-| Combustion Engineer | The Exploration Company | FRANCE | 2026-11-21 11:27 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/310452-combustion-engineer) |
-| Production Operations Engineer | Optiver | AUSTRALIA | 2026-11-21 10:48 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/310434-op-production-operations-engineer-trading-systems-sre-application-support-optiver-sydney-australia-17-hours-ago) |
-| Staff AI Engineer (Trust & Safety) | dreamerlabs | AUSTRALIA | 2026-11-21 10:47 UTC | visa | [Apply](https://jaabz.com/jobs/310435-staff-ai-engineer-trust-safety-dreamerlabs) |
-| Staff AI Engineer (Product) | dreamerlabs | AUSTRALIA | 2026-11-21 10:46 UTC | visa | [Apply](https://jaabz.com/jobs/310436-staff-ai-engineer-product-dreamerlabs) |
-| Programmer Analyst 5 – Data Analyst / ETL Developer | shiro technologies | United States | 2026-11-21 09:45 UTC | visa | [Apply](https://jaabz.com/jobs/310426-immediate-hiring-programmer-analyst-5-data-analyst-etl-developer) |
-| Senior Product Designer | Stealth Startup | United States | 2026-11-21 09:04 UTC | visa | [Apply](https://jaabz.com/jobs/310409-senior-product-designer) |
-| AI Automation Engineer | Mayflower | CYPRUS | 2026-11-21 07:37 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/310390-ai-automation-engineer) |
-| Software Engineer, Machine Learning | benetics ai | SWITZERLAND | 2026-11-21 06:47 UTC | visa | [Apply](https://jaabz.com/jobs/266642-software-engineer) |
-| Technical Program Manager | clera | United States | 2026-11-21 05:48 UTC | visa | [Apply](https://jaabz.com/jobs/310351-technical-program-manager) |
+| Senior/Staff/Principal Physical IC Design Engineer (ASIC) | CyberCoders | United State | 2026-11-22 14:54 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/287921-physical-design-engineer-senior-staff-or-principal-up-to-580k) |
+| Java Developer | BeaconFire Inc. | United States | 2026-11-22 14:54 UTC | visa | [Apply](https://jaabz.com/jobs/311064-java-ai-developer) |
+| Senior/Staff/Principal RTL IC Design Engineer (AI Infrastructure) | CyberCoders | United State | 2026-11-22 14:51 UTC | visa | [Apply](https://jaabz.com/jobs/286064-ic-design-engineer-senior-staff-or-principal-up-to-580k-tc) |
+| Java Full Stack Developer with AI Integration | BeaconFire Inc. | United States | 2026-11-22 14:51 UTC | visa | [Apply](https://jaabz.com/jobs/310224-ai-software-engineer-java) |
+| Java / Software / MERN / MEAN Engineer | BeaconFire Inc. | United States | 2026-11-22 14:51 UTC | visa | [Apply](https://jaabz.com/jobs/311063-java-software-engineer) |
+| Applied AI Architect | anthropic limited | AUSTRALIA | 2026-11-22 13:12 UTC | visa | [Apply](https://jaabz.com/jobs/310990-applied-ai-architect-beneficial-deployment) |
+| Senior / Staff Product Engineer (Tech Agnostic) | owen thomas / b corp™ | UNITED KINGDOM | 2026-11-22 13:10 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/311008-senior-staff-product-engineers-tech-agnostic-production-agentic-ai-european-relocation-to-london-aps100k-aps200k-equity-aps15k-relocation-package-family-visa-sponsorship) |
+| Product Engineer / Mid / Senior / Lead | owen thomas / b corp™ | UNITED KINGDOM | 2026-11-22 13:09 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/311010-x9-product-engineers-mid-senior-lead-tech-agnostic-go-python-jvm-ts-rust-kotlin-production-agentic-ai-london-hybrid-3-days-aps80-140k-equity-visa-relocate) |
+| Associate Manager – Internal Audit & Risk Advisory | rankskills knowledge international pvt ltd | BAHRAIN | 2026-11-22 13:08 UTC | visa | [Apply](https://jaabz.com/jobs/311048-bahrain-onsite-internal-auditor-for-banking-sector-7-yrs-post-caacca-exp-with-global-audit-firm-tax-free-take-home-bhd-1200-pm) |
+| Technical Product Manager | david ai | United States | 2026-11-22 12:54 UTC | visa | [Apply](https://jaabz.com/jobs/311034-technical-product-manager) |
+| Senior Full-stack Software Engineer | Capital One | United States | 2026-11-22 12:41 UTC | visa | [Apply](https://jaabz.com/jobs/311020-full-stack-engineer-5-senior-manager-ic-mlx-group) |
+| Senior Product Engineer (Python / Go / TS ) / Production Agentic AI / B2C Start-up, Series A / £100k-£250k + Equity / London (5 Days) / Visa Sponsorship + Relocation | owen thomas / b corp™ | UNITED KINGDOM | 2026-11-22 12:37 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/311009-senior-product-engineer-python-go-ts-production-agentic-ai-b2c-start-up-series-a-aps100k-aps250k-equity-london-5-days-visa-sponsorship-relocation) |
+| AI/ML Engineer - Model Development | dreamerlabs | AUSTRALIA | 2026-11-22 12:33 UTC | visa | [Apply](https://jaabz.com/jobs/310993-staff-ai-engineer-product) |
+| Software Engineer | stratos | UNITED KINGDOM | 2026-11-22 12:26 UTC | visa | [Apply](https://jaabz.com/jobs/311003-product-engineer) |
+| Staff AI Engineer (Trust & Safety) | dreamerlabs | AUSTRALIA | 2026-11-22 12:15 UTC | visa | [Apply](https://jaabz.com/jobs/310984-staff-ai-engineer-trust-safety) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
